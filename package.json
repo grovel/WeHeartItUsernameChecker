@@ -1,0 +1,16 @@
+{
+  "name": "weheartitchecker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "exploit.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Deagan",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "line-by-line": "^0.1.6",
+    "node-fetch": "^2.6.5"
+  }
+}
